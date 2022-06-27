@@ -1,0 +1,1 @@
+<template>gay2</template>
