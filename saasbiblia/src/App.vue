@@ -8,7 +8,7 @@ import MenuS from "./components/templates/MenuS.vue";
   <HeaderComp />
   <div class="container">
     <MenuS />
-    <div class="content">    <RouterView /></div>
+    <div class="content"><RouterView /></div>
   </div>
 </template>
 
